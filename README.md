@@ -1,2 +1,2 @@
 # gitDemo
-demo using git to test 
+This demo is used to test git operation. 
